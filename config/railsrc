@@ -1,0 +1,1 @@
+ --template=~/.vikingo-rails-config/vikingo-rails-config.rb --database=postgresql --skip-bundle --skip-test-unit --javascript=jquery
